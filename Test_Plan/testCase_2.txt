@@ -1,0 +1,17 @@
+TEST CASE 2 (under TEST PLAN 1 for DUEL DUO WEBAPP)
+
+DESCRIPTION
+
+    --Win should add one to the "Wins" counter
+
+STEPS:
+
+    1. Take note of the current value of the "Wins" counter
+
+    2. Battle the computer's bots until a win is achieved
+
+    3. Verify that the "Wins" counter has increased by one
+
+POST CONDITIONS
+
+    --The "Wins" counter will increase by one

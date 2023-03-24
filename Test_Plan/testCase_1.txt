@@ -1,0 +1,15 @@
+TEST CASE 1 (under TEST PLAN 1 for DUEL DUO WEBAPP)
+
+DESCRIPTION
+
+  --"See all bots" button should retrieve all bots
+
+STEPS:
+
+    1. Navigate to http://localhost:4000
+
+    2. Click on "See All Bots"
+
+POST CONDITIONS
+
+    --All bots should be displayed

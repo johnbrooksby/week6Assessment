@@ -16,3 +16,16 @@ TEST CRITERIA:
 
     --The WIN/LOSS tally should accurately track the number of wins and losses
 
+ENTRY CRITERIA:
+
+    --Has access to internet
+
+    --Has a mouse, touchpad, or touchscreen to interact with UI
+
+EXIT CRITERIA:
+
+    --All tests pass
+
+OTHER DETAILS
+
+    --None
