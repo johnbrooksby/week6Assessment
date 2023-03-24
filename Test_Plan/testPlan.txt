@@ -1,0 +1,18 @@
+TEST PLAN 1 for DUEL DUO WEBAPP
+
+OVERVIEW:
+
+    Test the site's functions for accuracy of gameplay
+
+Links:
+
+    http://localhost:4000
+
+TEST CRITERIA:
+
+    --Ensure the app works correctly to maximize user play.
+
+    --The site's buttons should work as indicated
+
+    --The WIN/LOSS tally should accurately track the number of wins and losses
+
