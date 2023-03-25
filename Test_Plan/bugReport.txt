@@ -1,0 +1,28 @@
+BUG REPORT FOR TEST CASE 1
+
+24 March 2023
+
+DESCRIPTION
+
+    --"See all bots" button does not seem to do anything when clicked
+
+STEPS TO REPRODUCE
+
+    1. On an internet-connected computer, open Chrome internet browser.
+    
+    2. Navigate to http://localhost:4000 and wait for page to load, if needed.
+
+    3. Click on the "See all bots" button near the top of the page.
+
+EXPECTED RESULT
+
+    --The page loads with some information about bots
+
+ACTUAL RESULT
+
+    --Nothing appeared to happen in the browser
+
+ENVIRONMENT
+
+    --Google Chrome Version 111.0.5563.65 (Official Build) (64-bit)
+    --Windows 11 Home Version 22H2
