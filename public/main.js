@@ -53,7 +53,7 @@ const makeRobotDisplayCard = (bot) => {
     return `
         <div class="bot-card outline">
         <img src='${bot.imgAddress}' alt='${bot.name}'/>
-        <h3>${bot.name}</h3>
+        <h3 id="bot-name-selector-id">${bot.name}</h3>
         <h4>Health: ${bot.health}</h4>
         <p>Attack 1: ${bot.attacks[0].damage} damage</p>
         <p>Attack 2: ${bot.attacks[1].damage} damage</p>
